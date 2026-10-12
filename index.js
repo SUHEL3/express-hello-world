@@ -6,5 +6,5 @@ app.get('/', function (req, res) {
 })
 
 app.listen(8080, function () {
-  console.log('Listening on port 3000...')
+  console.log('Listening ... this application is hosted from repo2cloud')
 })
